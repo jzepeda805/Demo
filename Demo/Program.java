@@ -10,6 +10,7 @@ public class Program {
 	}
 	
 	public void anotherDemoFunc() {
+		System.out.println("I did it, so what?");
 	
 	}
 }
